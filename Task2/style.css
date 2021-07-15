@@ -1,0 +1,7 @@
+body{
+    background-color: #000;
+}
+.discoBall{
+    position: relative;
+    border-radius: 50%;
+}
